@@ -51,6 +51,6 @@ h3{
 }
 video{
 	position: absolute;
-	left: 15%;
+	left: 4%;
 	transition:translateX(-50%);
 }
